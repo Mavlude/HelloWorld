@@ -2,9 +2,10 @@
 Learn &amp; Share
 
 
-
-Hi Humans!
-
-Code made my life more fun !
-
-Thanks,
+While(noSuccess)
+{ 
+       tryAgain();
+       
+       if(Dead)
+          break;
+}
